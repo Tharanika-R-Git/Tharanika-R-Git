@@ -30,7 +30,7 @@ class Tharanika:
     location   = "Tirupur, India 🇮🇳"
     focus      = ["Full Stack", "Data Engineering", "Generative AI", "Cloud"]
     mindset    = "Builder first. Learner always."
-    motto      = "எல்லாம் அவன் செயல் 🦚"
+    motto      = "I put in my best work — but I know it's all by His grace.🦚"
 ```
 
 I design and build **end-to-end systems** — from **frontend interfaces → backend services → data pipelines → AI-driven intelligence**. My work lives at the intersection of clean code, scalable architecture, and real-world impact.
@@ -184,12 +184,12 @@ I design and build **end-to-end systems** — from **frontend interfaces → bac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharanika-R-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Tharanika-R-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharanika-R-Git&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanika-R-Git&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharanika-R-Git&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
